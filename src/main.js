@@ -6,7 +6,7 @@ const app = document.querySelector("#app");
 
 const Main = () => {
   return div(
-    h1("nendev")
+    h1("nendev test")
   );
 };
 
